@@ -1,10 +1,4 @@
-### Olá, bem-vindo ao meu perfil do GitHub!!👋
-
- <div>
-  <a href="https://github.com/ricardobohadana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobohadana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobohadana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+�###👋 Olá, bem-vindo ao meu perfil do GitHub!!
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -14,6 +8,12 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 </div>
+ <div>
+  <a href="https://github.com/ricardobohadana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobohadana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobohadana&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
   ##
  
